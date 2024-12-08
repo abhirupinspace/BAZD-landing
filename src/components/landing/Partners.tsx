@@ -6,8 +6,8 @@ import Image from 'next/image'
 const partners = [
   {
     name: 'Coinbase Developer Platform',
-    logo: '/cb.png',
-    description: 'Leading innovator in AI and machine learning technologies.',
+    logo: '/cb.svg.svg?height=60&width=200',
+    description: 'Using CDP sdk for fluent onchain ',
   },
   {
     name: 'BASE',
